@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nova Pronter Segurança Eletrônica",
+  "description": "Segurança Eletrônica Inteligente, CFTV, Portaria Remota e Monitoramento 24h em Maceió e Região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
